@@ -1,0 +1,4 @@
+set a 100 10
+delete b - 9
+boom x - 8
+set c "should_not_apply" 7

@@ -1,0 +1,9 @@
+# 操作类型 目标 新值 优先级
+set a 100 10
+set a 200 5
+add d 3.14 7
+set missing 1 9
+delete b - 8
+set c "new" 6
+set e "unclosed 4
+add a 5 3
